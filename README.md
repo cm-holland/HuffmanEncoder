@@ -1,2 +1,2 @@
 # HuffmanEncoder
-Huffman coding project implemented in Java
+An implementation of Huffman coding in Java. 
