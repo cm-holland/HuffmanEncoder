@@ -1,2 +1,2 @@
 # HuffmanEncoder
-An implementation of Huffman coding in Java. 
+An implementation of HuffmanTree coding in Java. 
